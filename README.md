@@ -15,5 +15,5 @@ In this Hackathon, the given link of a web page was provided with its HTML data 
 Through NLP we need to find the category in which the Webpage ID belonged.
 
 **Analytics Vidya Platform**
-* **Public LB** : **22rd** Rank
-* **Private LB** : **19rd** Rank
+* **Public LB** : **22nd** Rank
+* **Private LB** : **19th** Rank
